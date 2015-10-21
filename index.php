@@ -12,7 +12,7 @@
 	$limitString = $countString * 0.35;
 
 	//select article_id,title,author,datepublished from articles limit 2 offset 1;
-
+	//COMMENT
 
 
 ?>
